@@ -3,7 +3,7 @@
   margin: 0;
 }
 
-/* #5b7065, black */
+
 body {
   background: rgba(48, 64, 64, 1.0); 
   background: -webkit-radial-gradient(center, rgba(48, 64, 64, 1.0) 0%, rgba(0, 0, 0, 1.0) 100%);
